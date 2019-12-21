@@ -1,11 +1,11 @@
 
-                             [M SCRAPPER BY HAXEYE]
+                             #M SCRAPPER
 
 M Scrapper (Members scrapper tool ) is a top tool to scrap members from any telegram group, it allows you to scrap members in few very easy steps. This tool also works on termux, kali, ubuntu, etc. M Scrapper is totally free to use, it is the only one free tool to scrap members list and save it in members.csv file.
 
 
 
-# [ Installation ]
+## [ Installation ]
 ```
 $ apt update && apt upgrade
 $ apt install git python2
@@ -13,11 +13,11 @@ $ git clone https://github.com/haxeye/M_Scrapper.git
 $ cd M_Scrapper
 ```
 
-# [ Setup ]
+## [ Setup ]
 ```
 $ pip2 install -r requirements.txt
 ```
-# [ Running ]
+## [ Running ]
 ```
 $ python2 M_Scrapper.py
 ```
