@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/haxeye/M_Scrapper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+                             [M SCRAPPER BY HAXEYE]
+```
+M Scrapper (Members scrapper tool ) is a top tool to scrap members from any telegram group, it allows you to scrap members in few very easy steps. This tool also works on termux, kali, ubuntu, etc. M Scrapper is totally free to use, it is the only one free tool to scrap members list and save it in members.csv file.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# [ Installation ]
+```
+$ apt update && apt upgrade
+$ apt install git python2
+$ git clone https://github.com/haxeye/M_Scrapper.git
+$ cd M_Scrapper
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# [ Setup ]
+```
+$ pip2 install -r requirements.txt
+```
+# [ Running ]
+```
+$ python2 M_Scrapper.py
+```
 
-### Jekyll Themes
+IMPORTANT: JOIN TERMUX PREMIUM BOT ON TELEGRAM TO LEARN HACKING AND GET ALL TOP TOOLS LINKS WHICH ARE IN GITHUB, GITLAB AND BITBUCKET WITH VIDEO TUTORIALS AND COMMANDS. @Termux_Premium_bot
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haxeye/M_Scrapper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Warn] please turn off your VPN before using this program !!!
+* [Tips] do not overuse this program !!!
+
+
+DONATION : Contact @haxeye on telegram
