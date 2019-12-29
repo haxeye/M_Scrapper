@@ -7,18 +7,18 @@ M Scrapper (Members scrapper tool ) is a top tool to scrap members from any tele
 ## [ Installation ]
 ```
 $ apt update && apt upgrade
-$ apt install git python2
+$ apt install git python
 $ git clone https://github.com/haxeye/M_Scrapper.git
 $ cd M_Scrapper
 ```
 
 ## [ Setup ]
 ```
-$ pip2 install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 ## [ Running ]
 ```
-$ python2 M_Scrapper.py
+$ python M_Scrapper.py
 ```
 
 IMPORTANT: JOIN TERMUX PREMIUM BOT ON TELEGRAM TO LEARN HACKING AND GET ALL TOP TOOLS LINKS WHICH ARE IN GITHUB, GITLAB AND BITBUCKET WITH VIDEO TUTORIALS AND COMMANDS. @Termux_Premium_bot
